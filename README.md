@@ -17,12 +17,6 @@ Hi, I'm Leeza Elizabeth Abraham 👋
 <!-- - I love to help people and grow as a community
 - Interests: Gym and Badminton -->
 
-
-### Connect with Me
-
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://nibinpsreenivas.github.io/Portfolio-Website-Using-React_deploy/) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/leeza-elizabeth-abraham-a71438291/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/leaish613/)
 ### Languages and Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
@@ -43,6 +37,11 @@ Hi, I'm Leeza Elizabeth Abraham 👋
 
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
 
+### Connect with Me
+
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://nibinpsreenivas.github.io/Portfolio-Website-Using-React_deploy/) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/leeza-elizabeth-abraham-a71438291/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/leaish613/)
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) -->
 
 <!-- <!-- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) -->
