@@ -5,10 +5,13 @@ Hi, I'm Leeza Elizabeth Abraham 👋
 
 ### About Me
 
-- **Just do it!** - **LEEZA**
-- Passionate BTech Computer Science student with a keen interest in technology and a drive for problem-solving, eager to learn, adapt, and innovate, with a focus on creating impactful solutions.
-- Front End Developer | Web Dev
-- 📫 How to reach me: **leezaelizabeth613@gmail.com**
+🔭**Just do it!** - **LEEZA** 
+
+🌱Passionate BTech Computer Science student with a keen interest in technology and a drive for problem-solving, eager to learn, adapt, and innovate, with a focus on creating impactful solutions.
+
+🤔Front End Developer | Web Dev 
+
+📫 How to reach me: **leezaelizabeth613@gmail.com** 
 <!-- - Passionate about **Python** and working in **Data Engineering** -->
 
 <!-- - I love to help people and grow as a community
