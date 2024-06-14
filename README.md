@@ -67,33 +67,32 @@ Hi, I'm Leeza Elizabeth Abraham 👋
 ![Leeza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nibinpsreenivas&show_icons=true&theme=radical) -->
 ## My Projects
 
-### Expense Tracker App
+### FinTrack
 A full-stack web application to track personal expenses and manage budgets.
 
-- ℹ️ [Expense Tracker Repository](https://github.com/leaish613/expense-tracker)
-- 🌐 [Live Demo](https://expense-tracker-demo.com)
-- 📝 [Project Blog Post](https://medium.com/@leaish613/how-i-built-my-expense-tracker-app)
+- ℹ️ [Expense Tracker Repository](https://github.com/leaish613/FinTrack)
+<!-- - 🌐 [Live Demo](https://expense-tracker-demo.com) -->
 
-### Portfolio Website
+### Meow Factss
+Random cat fact generating website using React.
+- ℹ️ [Expense Tracker Repository](https://github.com/leaish613/meowfactss)
+- 🌐 [Live Demo](https://meowfactss.netlify.app/)
+
+<!-- ### Portfolio Website
 My personal portfolio showcasing my projects and skills.
 
-- ℹ️ [Portfolio Repository](https://github.com/leaish613/portfolio)
-- 🌐 [Live Demo](https://leaish613.github.io/portfolio)
-- 📝 [Project Blog Post](https://dev.to/leaish613/building-my-portfolio-website)
+- ℹ️ [Portfolio Repository](https://github.com/leaish613/portfolio) -->
+<!-- - 🌐 [Live Demo](https://leaish613.github.io/portfolio) -->
 
-### Blogging Platform
-A blogging platform built with Node.js and MongoDB for content management.
+### Books n Books
+Book review and recommendation website using wordpress.
 
-- ℹ️ [Blogging Platform Repository](https://github.com/leaish613/blogging-platform)
-- 🌐 [Live Demo](https://blogging-platform-demo.com)
-- 📝 [Project Blog Post](https://leaish.medium.com/building-a-scalable-blogging-platform)
+- ℹ️ [Blogging Platform Repository](https://github.com/leaish613/Books-n-Books)
+<!-- - 🌐 [Live Demo](https://blogging-platform-demo.com) -->
 
-## Get in Touch
-- Twitter: [twitter.com/leaish613](https://twitter.com/leaish613)
-- LinkedIn: [linkedin.com/in/leaish613](https://www.linkedin.com/in/leaish613/)
-- Email: [leaish@example.com](mailto:leaish@example.com)
 
-Feel free to explore my repositories to see more of my work!
+
+<!-- Feel free to explore my repositories to see more of my work! -->
 
 ### Connect with Me
 
