@@ -70,12 +70,12 @@ Hi, I'm Leeza Elizabeth Abraham 👋
 ### FinTrack
 A full-stack web application to track personal expenses and manage budgets.
 
-- ℹ️ [Expense Tracker Repository](https://github.com/leaish613/FinTrack)
+- ℹ️ [Repository](https://github.com/leaish613/FinTrack)
 <!-- - 🌐 [Live Demo](https://expense-tracker-demo.com) -->
 
 ### Meow Factss
-Random cat fact generating website using React.
-- ℹ️ [Expense Tracker Repository](https://github.com/leaish613/meowfactss)
+Random cat fact-generating website using React.
+- ℹ️ [Repository](https://github.com/leaish613/meowfactss)
 - 🌐 [Live Demo](https://meowfactss.netlify.app/)
 
 <!-- ### Portfolio Website
@@ -85,9 +85,9 @@ My personal portfolio showcasing my projects and skills.
 <!-- - 🌐 [Live Demo](https://leaish613.github.io/portfolio) -->
 
 ### Books n Books
-Book review and recommendation website using wordpress.
+Book review and recommendation website using WordPress.
 
-- ℹ️ [Blogging Platform Repository](https://github.com/leaish613/Books-n-Books)
+- ℹ️ [Repository](https://github.com/leaish613/Books-n-Books)
 <!-- - 🌐 [Live Demo](https://blogging-platform-demo.com) -->
 
 
