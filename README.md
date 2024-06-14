@@ -100,4 +100,3 @@ Feel free to explore my repositories to see more of my work!
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://nibinpsreenivas.github.io/Portfolio-Website-Using-React_deploy/) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/leeza-elizabeth-abraham-a71438291/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/leaish613/)
-[![Email](https://img.shields.io/badge/Gmail-leezaelizabeth613%40gmail.com-critical?style=for-the-badge&logo=gmail)](mailto:leezaelizabeth613@gmail.com)
