@@ -3,7 +3,7 @@
 
 Hi, I'm Leeza Elizabeth Abraham 👋
 
-### About Me
+## About Me
 
 🔭**Just do it!** - **LEEZA** 
 
@@ -17,7 +17,9 @@ Hi, I'm Leeza Elizabeth Abraham 👋
 <!-- - I love to help people and grow as a community
 - Interests: Gym and Badminton -->
 
-### Languages and Tools
+
+
+## Languages and Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
@@ -37,11 +39,6 @@ Hi, I'm Leeza Elizabeth Abraham 👋
 
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
 
-### Connect with Me
-
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://nibinpsreenivas.github.io/Portfolio-Website-Using-React_deploy/) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/leeza-elizabeth-abraham-a71438291/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/leaish613/)
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) -->
 
 <!-- <!-- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) -->
@@ -68,3 +65,39 @@ Hi, I'm Leeza Elizabeth Abraham 👋
 ### GitHub Stats
 
 ![Leeza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nibinpsreenivas&show_icons=true&theme=radical) -->
+## My Projects
+
+### Expense Tracker App
+A full-stack web application to track personal expenses and manage budgets.
+
+- ℹ️ [Expense Tracker Repository](https://github.com/leaish613/expense-tracker)
+- 🌐 [Live Demo](https://expense-tracker-demo.com)
+- 📝 [Project Blog Post](https://medium.com/@leaish613/how-i-built-my-expense-tracker-app)
+
+### Portfolio Website
+My personal portfolio showcasing my projects and skills.
+
+- ℹ️ [Portfolio Repository](https://github.com/leaish613/portfolio)
+- 🌐 [Live Demo](https://leaish613.github.io/portfolio)
+- 📝 [Project Blog Post](https://dev.to/leaish613/building-my-portfolio-website)
+
+### Blogging Platform
+A blogging platform built with Node.js and MongoDB for content management.
+
+- ℹ️ [Blogging Platform Repository](https://github.com/leaish613/blogging-platform)
+- 🌐 [Live Demo](https://blogging-platform-demo.com)
+- 📝 [Project Blog Post](https://leaish.medium.com/building-a-scalable-blogging-platform)
+
+## Get in Touch
+- Twitter: [twitter.com/leaish613](https://twitter.com/leaish613)
+- LinkedIn: [linkedin.com/in/leaish613](https://www.linkedin.com/in/leaish613/)
+- Email: [leaish@example.com](mailto:leaish@example.com)
+
+Feel free to explore my repositories to see more of my work!
+
+### Connect with Me
+
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://nibinpsreenivas.github.io/Portfolio-Website-Using-React_deploy/) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/leeza-elizabeth-abraham-a71438291/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/leaish613/)
+[![Email](https://img.shields.io/badge/Gmail-leezaelizabeth613%40gmail.com-critical?style=for-the-badge&logo=gmail)](mailto:leezaelizabeth613@gmail.com)
