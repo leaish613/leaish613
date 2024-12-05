@@ -1,55 +1,64 @@
 
 <img width="1834" alt="readme" src="https://github.com/leaish613/leaish613/assets/146575698/f151002d-7c64-4d41-a7d4-1bacad7d466a">
 
-Hi, I'm Leeza Elizabeth Abraham 👋
+# Hi, I'm Leeza Elizabeth Abraham 👋
 
 ## About Me
 
-🔭**Just do it!** - **LEEZA** 
+🔭 **Just do it!** - **LEEZA**  
+🌱 Passionate BTech Computer Science student with a strong interest in Data Science, Machine Learning, and Artificial Intelligence. Always eager to learn, adapt, and innovate to create impactful solutions through data-driven insights.
 
-🌱Passionate BTech Computer Science student with a keen interest in technology and a drive for problem-solving, eager to learn, adapt, and innovate, with a focus on creating impactful solutions.
+🤖 **Data Science | Machine Learning | AI Enthusiast**
 
-🤔Front End Developer | Web Dev 
+📫 How to reach me: **leezaelizabeth613@gmail.com**
 
-📫 How to reach me: **leezaelizabeth613@gmail.com** 
-<!-- - Passionate about **Python** and working in **Data Engineering** -->
-
-<!-- - I love to help people and grow as a community
-- Interests: Gym and Badminton -->
-
-
+---
 
 ## Languages and Tools
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
+### Programming Languages & Libraries
+- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
+- ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+- ![Scikit-learn](https://img.shields.io/badge/-Scikit-learn-333333?style=flat&logo=scikit-learn)
+  <!--![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
+  ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)  ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)   ![XGBoost](https://img.shields.io/badge/-XGBoost-333333?style=flat&logo=xgboost)![LightGBM](https://img.shields.io/badge/-LightGBM-333333?style=flat&logo=lightgbm)-->
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
-
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
-
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
-
-<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) -->
-
-<!-- <!-- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) -->
+### Data Visualization
+- ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
+- ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
+- ![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=plotly)
 
 
-<!-- ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass) -->
+<!--
+### Data Processing & Big Data
+- ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=apache-spark)
+- ![Dask](https://img.shields.io/badge/-Dask-333333?style=flat&logo=dask)
 
-<!-- ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter) -->
+### Cloud & Deployment
+- ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+- ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
+- ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-333333?style=flat&logo=microsoft-azure)
+-->
+### Data Storage & Databases
+- ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+<!-- - ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) -->
+ 
+### Version Control & Collaboration
+- ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+- ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-<!-- ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes) -->
+---
+
+## My Projects
+
+### Data Science and ML Projects
+- Explore my repositories for data science and machine learning projects, where I apply advanced algorithms to real-world datasets.
+
+---
+
+
+
 
 <!-- ### Coding Profiles
 
@@ -65,18 +74,7 @@ Hi, I'm Leeza Elizabeth Abraham 👋
 ### GitHub Stats
 
 ![Leeza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nibinpsreenivas&show_icons=true&theme=radical) -->
-## My Projects
 
-### FinTrack
-A full-stack web application to track personal expenses and manage budgets.
-
-- ℹ️ [Repository](https://github.com/leaish613/FinTrack)
-<!-- - 🌐 [Live Demo](https://expense-tracker-demo.com) -->
-
-### Meow Factss
-Random cat fact-generating website using React.
-- ℹ️ [Repository](https://github.com/leaish613/meowfactss)
-- 🌐 [Live Demo](https://meowfactss.netlify.app/)
 
 <!-- ### Portfolio Website
 My personal portfolio showcasing my projects and skills.
@@ -84,11 +82,6 @@ My personal portfolio showcasing my projects and skills.
 - ℹ️ [Portfolio Repository](https://github.com/leaish613/portfolio) -->
 <!-- - 🌐 [Live Demo](https://leaish613.github.io/portfolio) -->
 
-### Books n Books
-Book review and recommendation website using WordPress.
-
-- ℹ️ [Repository](https://github.com/leaish613/Books-n-Books)
-<!-- - 🌐 [Live Demo](https://blogging-platform-demo.com) -->
 
 
 
