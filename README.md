@@ -53,8 +53,13 @@
 ## My Projects
 
 ### Data Science and ML Projects
-- Explore my repositories for data science and machine learning projects, where I apply advanced algorithms to real-world datasets.
+Explore my repositories for data science and machine learning projects, where I apply advanced algorithms to real-world datasets.
 
+####  E-commerce Customer Behavior Prediction
+-This project predicts customer satisfaction using machine learning on an e-commerce dataset. It employs a Random Forest Classifier to classify customers as Satisfied, Neutral, or Unsatisfied based on features like Age, Gender, Total Spend, and more. The repository includes data preprocessing, model training, and evaluation.
+
+- ℹ️ [Repository](https://github.com/leaish613/e_commerce_customer_behavior_prediction) -->
+<!-- - 🌐 [Live Demo](https://leaish613.github.io/portfolio)
 ---
 
 
